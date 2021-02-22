@@ -101,3 +101,5 @@ friends: [
         href: "http://zkgh2011.com/"
     }
 ]
+
+theme: jekyll-theme-minimal
